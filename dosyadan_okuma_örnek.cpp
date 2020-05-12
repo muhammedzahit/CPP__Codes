@@ -1,4 +1,3 @@
-// 16.10 Reading Data From A File
 #include <iostream>
 #include <iterator>
 #include <algorithm>
