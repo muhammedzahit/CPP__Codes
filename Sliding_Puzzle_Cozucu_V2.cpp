@@ -1,5 +1,5 @@
 // Bir önceki algoritmamızda recursive kullandığımız için karmaşık çözümler yapamıyordu.
-// Bu kod da A* Algoritması kullanılmıştır. Karmaşık çözümler yapabilir. Bir önceki algoritmadan hızlıdır.
+// Bu kodda A* Algoritması kullanılmıştır. Karmaşık çözümler yapabilir. Bir önceki algoritmadan hızlıdır.
 #include <iostream>
 #include <vector>
 #include <algorithm>
