@@ -27,8 +27,8 @@ int main(){
     thread t1(ucYaz);
     thread t2(ikiYaz);
     thread t3(birYaz);
-    t1.join();
-    t2.join();
     t3.join();
+    t2.join();
+    t1.join();
     return 0;
 }
