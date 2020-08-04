@@ -31,8 +31,8 @@ int main(){
     thread t1(uc);
     thread t2(iki);
     thread t3(bir);
-    t1.join();
-    t2.join();
     t3.join();
+    t2.join();
+    t1.join();
     return 0;
 }
